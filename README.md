@@ -110,6 +110,7 @@
 <td align="center"><img src="[https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png](https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png)" width="100" height="100"/></td>
 <td align="center"><img src="[https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg](https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg)" width="100" height="100"/></td>
 <td align="center"><img src="[https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/īī��������_���̾�.png?type=w2](https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2)" width="100" height="100"/></td>
+<td align="center"><img src="[https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/īī��������_���̾�.png?type=w2](https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2)" width="100" height="100"/></td>
 </tr>
 <tr>
 <td align="center"><strong>박의민</strong></td>
@@ -119,9 +120,10 @@
 <td align="center"><strong>한대운</strong></td>
 </tr>
 <tr>
+<td align="center"><b>Backend,Frontend</b></td>
 <td align="center"><b>Backend</b></td>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><b>IoT,Frontend</b></td>
+<td align="center"><b>Backend,Frontend</b></td>
+<td align="center"><b>Backend</b></td>
 <td align="center"><b>Backend</b></td>
 </tr>
 <tr>
@@ -135,6 +137,7 @@
 <td align="center"><a href="[https://github.com/eil-you](https://github.com/eil-you)" target='_blank'>github</a></td>
 <td align="center"><a href="[https://github.com/wonjuju](https://github.com/wonjuju)" target='_blank'>github</a></td>
 <td align="center"><a href="[https://github.com/HeEwOn96](https://github.com/HeEwOn96)" target='_blank'>github</a></td>
+<td align="center"><a href="[https://github.com/sterham](https://github.com/sterham)" target='_blank'>github</a></td>
 <td align="center"><a href="[https://github.com/sterham](https://github.com/sterham)" target='_blank'>github</a></td>
 </tr>
 </table>
