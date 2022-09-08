@@ -88,19 +88,15 @@
 
 # 📌Use-Case
 
-<img src = "[https://user-images.githubusercontent.com/104811356/185788901-cbed8178-7077-4b2d-abc9-6e851320d094.png](https://user-images.githubusercontent.com/104811356/185788901-cbed8178-7077-4b2d-abc9-6e851320d094.png)">
+
 
 # 📌E-R Diagram
 
-<img src ="[https://user-images.githubusercontent.com/104811356/185788587-e648b4a9-ddca-429b-8f48-d539b39bb9b1.png](https://user-images.githubusercontent.com/104811356/185788587-e648b4a9-ddca-429b-8f48-d539b39bb9b1.png)">
+
 
 # 💻화면 구성
 
-![https://user-images.githubusercontent.com/104811356/185789376-8023b0e3-c055-4c00-a888-e6a5ecabafb1.png](https://user-images.githubusercontent.com/104811356/185789376-8023b0e3-c055-4c00-a888-e6a5ecabafb1.png)
 
-![https://user-images.githubusercontent.com/104811356/185789397-e5229858-fdcf-4577-92e5-46f15760ab26.png](https://user-images.githubusercontent.com/104811356/185789397-e5229858-fdcf-4577-92e5-46f15760ab26.png)
-
-![https://user-images.githubusercontent.com/104811356/185789411-159de43d-7e48-4225-a051-1c8943c8feab.png](https://user-images.githubusercontent.com/104811356/185789411-159de43d-7e48-4225-a051-1c8943c8feab.png)
 
 # 👨‍👩‍👦‍👦 팀원 역할
 
