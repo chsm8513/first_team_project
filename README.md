@@ -149,8 +149,8 @@
 
 <tr>
 
-<td align="center"><a href="[https://github.com/자신의username작성해주세요]" target='_blank'>github</a></td>
 <td align="center"><a href="https://github.com/qkrmekem" target='_blank'>github</a></td>
+<td align="center"><a href="[https://github.com/자신의username작성해주세요]" target='_blank'>github</a></td>
 <td align="center"><a href="https://github.com/chsm8513" target='_blank'>github</a></td>
 <td align="center"><a href="https://github.com/gaesol" target='_blank'>github</a></td>
 <td align="center"><a href="https://github.com/Chochoooo" target='_blank'>github</a></td>
