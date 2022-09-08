@@ -108,23 +108,15 @@
 
 ### 메인페이지/API/회원가입
 
-<br>
-
 ![메인API](https://user-images.githubusercontent.com/108060141/189050247-ca1024dc-c0ce-4548-8d48-84faea44c3d3.png)
 
 ### 맥주 리뷰 게시판(베스트 리뷰)
-
-<br>
 
 ![맥주리뷰](https://user-images.githubusercontent.com/108060141/189050240-7cc17932-b32d-4e6b-9758-b7e3608b0637.png)
 
 ### 맥주 추천/맥주 검색
 
-<br>
-
 ![맥주추천](https://user-images.githubusercontent.com/108060141/189050245-cf509b88-feeb-43f3-9821-e49c604c971b.png)
-
-<br>
 
 ### 공지사항/마이페이지
 
